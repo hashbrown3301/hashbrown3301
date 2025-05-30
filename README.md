@@ -7,7 +7,7 @@
 
 🏓 **Interests:**  
 - Table Tennis  
-- Gaming on PS5 🎮  
+- Gaming 🎮  
 - Reading Novels 📚  
 - Football ⚽  
 - Coin Collection 🪙
