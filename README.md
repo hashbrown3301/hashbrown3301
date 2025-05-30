@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi there! I'm a passionate student eager to explore and grow in the world of technology.
 
-<!--
-**hashbrown3301/hashbrown3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Skills:**  
+- Python 🐍  
+- Java ☕  
+- HTML, CSS, JavaScript 🌐
 
-Here are some ideas to get you started:
+🏓 **Interests:**  
+- Table Tennis  
+- Gaming on PS5 🎮  
+- Reading Novels 📚  
+- Football ⚽  
+- Coin Collection 🪙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always excited to learn new things and take on new challenges!
